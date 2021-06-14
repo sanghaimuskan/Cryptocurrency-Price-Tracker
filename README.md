@@ -1,4 +1,5 @@
 # Cryptocurrency-Price-Tracker
+It is made using HTML, CSS, Javascript and ReactJS.
 This is the landing page:
 ![image](https://user-images.githubusercontent.com/43779438/121863339-61958f00-cd19-11eb-986c-c3fc8eabe50f.png)
 
